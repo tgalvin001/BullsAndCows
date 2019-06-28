@@ -40,6 +40,12 @@ namespace bullsAndCows
                     int cow = 0;
                     Console.WriteLine("Guess 4 digit number: ");
                     guess = Console.ReadLine().ToCharArray();
+                    while (guess.Length != 4)
+                    {
+                        Console.WriteLine("Your guess needs to be 4 digits");
+                        guess = Console.ReadLine().ToCharArray();
+
+                    }
             
                     for(int i = 0; i < 4; i++)
                     {
