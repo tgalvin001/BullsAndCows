@@ -12,3 +12,10 @@ C:\Users\wannabeh3ro\source\repos\bullsAndCows\obj\Debug\bullsAndCows.csprojAsse
 C:\Users\wannabeh3ro\source\repos\bullsAndCows\obj\Debug\bullsAndCows.csproj.CoreCompileInputs.cache
 C:\Users\wannabeh3ro\source\repos\bullsAndCows\obj\Debug\bullsAndCows.exe
 C:\Users\wannabeh3ro\source\repos\bullsAndCows\obj\Debug\bullsAndCows.pdb
+C:\Users\tgalvin\Source\Repos\tgalvin001\BullsAndCows\bullsAndCows\bin\Debug\bullsAndCows.exe.config
+C:\Users\tgalvin\Source\Repos\tgalvin001\BullsAndCows\bullsAndCows\bin\Debug\bullsAndCows.exe
+C:\Users\tgalvin\Source\Repos\tgalvin001\BullsAndCows\bullsAndCows\bin\Debug\bullsAndCows.pdb
+C:\Users\tgalvin\Source\Repos\tgalvin001\BullsAndCows\bullsAndCows\obj\Debug\bullsAndCows.csprojAssemblyReference.cache
+C:\Users\tgalvin\Source\Repos\tgalvin001\BullsAndCows\bullsAndCows\obj\Debug\bullsAndCows.csproj.CoreCompileInputs.cache
+C:\Users\tgalvin\Source\Repos\tgalvin001\BullsAndCows\bullsAndCows\obj\Debug\bullsAndCows.exe
+C:\Users\tgalvin\Source\Repos\tgalvin001\BullsAndCows\bullsAndCows\obj\Debug\bullsAndCows.pdb
